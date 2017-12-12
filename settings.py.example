@@ -1,0 +1,2 @@
+DB_LOCATION = "/path/to/sqlite/database.db"
+USING_OSX = True
